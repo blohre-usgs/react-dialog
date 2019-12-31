@@ -50,7 +50,7 @@
     "react": "^0.14.7 || ^15.0.0"
   },
   "dependencies": {
-    "active-event-stack": "^1.0.0",
+    "active-event-stack": "jeron-diovis/active-event-stack",
     "classnames": "^2.2.3",
     "react-draggable": "^2.2.6",
     "react-onclickoutside": "^5.10.0",
